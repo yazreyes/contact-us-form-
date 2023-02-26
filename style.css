@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+  
+main {
+  align-items: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+}
+
+input {
+  margin: 10px;
+  align-items: center;
+  text-align: center;
+}
